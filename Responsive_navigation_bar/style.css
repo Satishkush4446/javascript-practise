@@ -59,6 +59,7 @@ nav li:first-child{
     justify-content: flex-start;
     
 }
+
 .sidebar li{
     width: 100%;
 }
@@ -76,6 +77,7 @@ nav li:first-child{
 .menu-button{
     display: block;
 }
+
 
 }
 @media(max-width:400px){
